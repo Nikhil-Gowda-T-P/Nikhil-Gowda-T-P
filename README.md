@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nikhil-Gowda-T-P
 - 👀 I’m interested in machine learning 
-- 🌱 I’m currently learning django,python,ML/AI
+- 🌱 I’m currently learning django,python,ML/AI,flask
 - 💞️ I’m looking to collaborate on  python projects
 
 
