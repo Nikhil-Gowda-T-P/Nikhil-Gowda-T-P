@@ -1,3 +1,4 @@
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_KDf732vQ1HgyqydYdxWz7ccdZ2dp3MqzTQ&usqp=CAU)]
 <h1 align="center">Hi 👋, I'm Nikhil Gowda T P</h1>
 <h3 align="center">A passionate python developer from India</h3>
 
@@ -6,7 +7,7 @@
 - 👯 I’m looking to collaborate on **python projects**
 
 - 💬 Ask me about **python,dsa,Flask**
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_KDf732vQ1HgyqydYdxWz7ccdZ2dp3MqzTQ&usqp=CAU)]
+
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
