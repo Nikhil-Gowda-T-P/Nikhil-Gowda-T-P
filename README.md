@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_KDf732vQ1HgyqydYdxWz7ccdZ2dp3MqzTQ&usqp=CAU)]
+
 <h1 align="center">Hi 👋, I'm Nikhil Gowda T P</h1>
 <h3 align="center">A passionate python developer from India</h3>
 
