@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Nikhil Gowda T P</h1>
-<h3 align="center">A passionate python developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil-gowda-t-p&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil-gowda-t-p" /> </p>
 
 - 👯 I’m looking to collaborate on **python projects**
 
-- 💬 Ask me about **python,dsa,Flask**
+- 💬 Ask me about **python,dsa,Flask,Mongo db,Nodejs,Epress js,Reack**
 
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp">
 <h3 align="left">Connect with me:</h3>
